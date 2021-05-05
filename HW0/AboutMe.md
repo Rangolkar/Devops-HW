@@ -1,0 +1,3 @@
+# About Me
+
+I am a graduate student at NC State University pursuing my masters in Computer Networking. I am orignally from Mumbai, India. I always wanted to code as I feel writing code is the most precise way for me to express my thought process and creativity. Hence I choose to pursue a career in software engineering, as in this career every day is like a new challenge always new bugs, new exceptions and very new errors are waiting on the next morning after compilation of the code. Lots of new technologies are emerging every year and also lots of get out dated. Hence as software engineer we always need to stay updated and learn new technologies otherwise we are out dated here.
